@@ -26,4 +26,22 @@ https://www.tc.gc.ca/fr/transports-canada/organisation/lois-reglements/reglement
 ### Portail Navdrone
 https://portal.navdrone.ca/
 ### Application NAV Drone
+## Faire une demande de COAS
+### Formulaire à télécharger
+[https://portal.navdrone.ca/](https://wwwapps.tc.gc.ca/Corp-Serv-Gen/5/forms-formulaires/telecharger/26-0835_BO_PX)https://wwwapps.tc.gc.ca/Corp-Serv-Gen/5/forms-formulaires/telecharger/26-0835_BO_PX
+### Courriel ou faire parvenir le formulaire
+TC.RPASCentre-CentreSATP.TC@tc.gc.ca
+## Opération aux États-Unis
+https://www.faa.gov/uas/
+## Respects des autres lois
+https://www.pc.gc.ca/fr/pn-np/ab/banff/info/permis-permit/drone
+## Qu'est-ce la nuit
+### Crépuscule civil du matin au soir
+https://www.nrc-cnrc.gc.ca/fra/services/levers/index.html
+## Transmettre un rapport
+### Formulaire d'incident de Transport Canada
+https://www.tc.gc.ca/fra/aviationcivile/opssvs/urgences-rapportssurlesincidents-menu.htm
+## Infractions et application de la loi
+https://www.tc.gc.ca/fra/aviationcivile/opssvs/urgences-rapportssurlesincidents-menu.htm
 
+##Res
